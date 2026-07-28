@@ -10,7 +10,6 @@ A modern **Pet Shop Management System** built with **Next.js 15**, **TypeScript*
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![NextAuth](https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logo=auth0)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-111111?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ---
 
