@@ -2,6 +2,16 @@
 
 A modern **Pet Shop Management System** built with **Next.js 15**, **TypeScript**, **Prisma**, and **PostgreSQL** to simplify daily business operations such as product management, inventory tracking, sales transactions, supplier management, and business reporting.
 
+![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-19-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![NextAuth](https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logo=auth0)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-111111?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 ---
 
 ## 📸 Application Preview
