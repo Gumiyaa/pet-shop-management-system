@@ -34,6 +34,9 @@ A modern **Pet Shop Management System** built with **Next.js 15**, **TypeScript*
 
 ---
 
+<details>
+<summary><strong>📖 Dokumen Lengkap</strong> — Fitur, Cara Menjalankan, Struktur Folder, & lainnya</summary>
+
 # ✨ Features
 
 ### 🔐 Authentication
@@ -196,3 +199,5 @@ https://github.com/Gumiyaa
 ## ⭐ Support
 
 If you find this project helpful, consider giving it a **⭐ Star** on GitHub.
+
+</details>
